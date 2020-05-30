@@ -1,7 +1,12 @@
 # Livestreaming
 **Source.json** (updated 24/7) contains the livestreaming urls from certain facebook pages and youtube channels.
 
-## Example:
+## Usage:
+"ts" is the update timestamp.  
+"fb" contains livestreaming urls from facebook pages.  
+"yt" contains video-id of livestreaming urls from youtube channels.  
+
+## Example
 ```
 {
    "ts":1590822894239,
@@ -12,10 +17,12 @@
       "/standnewshk/videos/244106953352630/"
    ],
    "yt":[
-      "Ih3x4mQ29UQ"
+      "OM6FzTXJpb8"
    ]
 }
 ```
+Url for 1st "fb" item is https://www.facebook.com/CupidProducer/videos/3114869358573431  
+Url for 1st "yt" item is https://www.youtube.com/watch?v=OM6FzTXJpb8  
 
 ## Supported Pages & Channels
 ###### Facebook Pages
